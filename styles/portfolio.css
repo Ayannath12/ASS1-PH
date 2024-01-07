@@ -1,0 +1,21 @@
+body{
+    padding:0px 100px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.banner-img{
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    background-image: url("../Banner\ Image.png");
+    background-size: cover;
+    display: grid;
+    align-items: center;
+}
+.hy{
+    text-align: center;
+    color: white;
+}
