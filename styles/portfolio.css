@@ -76,3 +76,35 @@ line-height: normal;
     background-position: center;
     margin-left: 25%;
 }
+.newww{
+    background-image: url("../Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.party{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+max-width: 641px;
+max-height: 176px;
+margin-left: 10%;
+ margin-top:120px;
+}
+.aftparty{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+max-width: 697px;
+margin-left: 10%;
+}
+/*  */
