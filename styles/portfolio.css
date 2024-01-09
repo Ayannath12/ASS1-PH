@@ -236,7 +236,56 @@ padding-bottom: 120%;
     margin-left: -50%;
 }
 .col1{
+ text-align: centers;
+}
+.col3{
 
+}
+.year{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 10%;
+}
+.textt{
+    text-decoration: dashed;
+}
+.discount{
+    text-align: center;
+    padding-top: 5%;
+}
+.holy{
+    color: #F00;
+}
+.border{
+    border: 2px solid black;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 300px;
+    /* margin-right: 80px; */ 
+    justify-content: center;
+    max-width: 1000px;
+    
+}
+.gift{
+    /* text-align: center; */
+    margin-top: 60px;
+    max-width: 1600px;
+    max-height: 7000px;
+    
+}
+.best{
+    color:#F00;
+    font-size: 24px;
+}
+.our{
+    font-size:48px;
+}
+.dolor{
+    max-width:800px;
 }
 .row{
     display: grid;
@@ -244,7 +293,7 @@ padding-bottom: 120%;
 }
 .picc{
 
-    
+    font-size: 8px;
     display: flex;
     justify-content: center;
     margin: auto;
@@ -258,8 +307,39 @@ padding-bottom: 120%;
 .collll{
     display: flex;
     justify-content: space-between;
+    color: #FFF;
+    
 }
 .col-3{
     display: flex;
     justify-content: center;
+}
+.massage{
+    border:bisque ;
+    max-width:1320px;
+    max-height: 700px;
+    text-align: center;
+    background-color: hotpink;
+    margin-left:80px;
+}
+.emails{
+    display:flex;
+    max-width: 648px;
+    max-height: 72px;
+    margin-left: 27%;
+}
+.sub{
+    background-color: #F00;
+    font-size: 9px;
+    text-align: center;
+    color: #FFF;
+}
+.hole{
+    background-color:#070211;
+    max-width: 1600px;
+    max-height: 800px;
+    margin-top: 5%;
+}
+.col-1{
+    color: #FFF;
 }
