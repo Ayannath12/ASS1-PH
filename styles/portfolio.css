@@ -21,7 +21,7 @@ img{
 }
 .hy{
     text-align: center;
-    color:darkviolet;
+    color:#FFF;
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
@@ -29,7 +29,7 @@ img{
     margin-bottom: 5px;
 }
 .hyy{
-    color:darkblue;
+    color:aliceblue;
 
 text-align: center;
 font-family: Merriweather;
@@ -85,27 +85,26 @@ line-height: normal;
     background-repeat: no-repeat;
     background-size: cover;
     justify-content: space-evenly;
-     /* display: flex; */
-     /* position: relative; */
-  /* top: 20px;
-  left: 30px; */
+   
 }
 .newwww{
     background-position: url("../Group\ 70.png");
 }
-.pt{
-    /* margin-left: 10%; */
-    
-    /* top: 20px;
-    left: 30px; */
+.col2{
+   border-color: #F00;
+    border-radius: circle;
 }
+.pt{
+    text-decoration: dashed;
+}
+
 .party{
-    color: #FFF;
+    color:white;
 font-family: Merriweather;
 font-size: 64px;
 font-style: normal;
-font-weight: 900;
-line-height: 88px; /* 137.5% */
+/* font-weight: 900;
+line-height: 88px;  */
 letter-spacing: 7.04px;
 max-width: 641px;
 max-height: 176px;
@@ -224,6 +223,10 @@ padding-bottom: 120%;
     align-items: center;
     justify-content: space-evenly;
     
+}
+.j{
+    color: #FFF;
+    margin-left: 10%;
 }
 .bac{
     background-image: url("../Rectangle\ 1.png");
